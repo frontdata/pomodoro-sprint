@@ -2,6 +2,8 @@
 
 Desenvolvido por FRONT DATA utilizando o framework REACT
 
+![Screenshot](screenshot.jpg)
+
 # Funcionalidades
 
  - Teclas de atalho
