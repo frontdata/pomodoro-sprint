@@ -21,8 +21,6 @@ Desenvolvido utilizando o framework React
 * Criar avisos sonoros com textos falados 
 
 
-Desenvolvido por Lucas do Rego
-# https://www.linkedin.com/in/lucasdorego/
+Desenvolvido por Lucas do Rego: https://www.linkedin.com/in/lucasdorego/
 
-Crédito e agradecimento à Luiz Batanero pelo código usado como referência e base inicial:
-# https://github.com/luizbatanero
+Crédito e agradecimento à Luiz Batanero pelo código usado como referência e base inicial: https://github.com/luizbatanero
