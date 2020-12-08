@@ -10,9 +10,9 @@ Desenvolvido utilizando o framework React
 
 # Para testar localmente
 
-1 - npm install
-2 - npm start
-3 - Abrir o navegador no endereço: http://localhost:3000
+ - npm install
+ - npm start
+ - Abrir o navegador no endereço: http://localhost:3000
 
 
 # Próximas funcionalidades
@@ -21,6 +21,8 @@ Desenvolvido utilizando o framework React
 * Criar avisos sonoros com textos falados 
 
 
-Desenvolvido por Lucas do Rego: https://www.linkedin.com/in/lucasdorego/
+Desenvolvido por Lucas do Rego: 
+https://www.linkedin.com/in/lucasdorego/
 
-Crédito e agradecimento à Luiz Batanero pelo código usado como referência e base inicial: https://github.com/luizbatanero
+Crédito e agradecimento à Luiz Batanero pelo código usado como referência e base inicial: 
+https://github.com/luizbatanero
