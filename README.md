@@ -1,6 +1,6 @@
-Front Data - Gerenciador de tempo de tarefas Pomodoro
+# Gerenciador de tempo de tarefas Pomodoro Sprint
 
-Desenvolvido utilizando o framework React
+Desenvolvido por FRONT DATA utilizando o framework REACT
 
 # Funcionalidades
 
