@@ -12,7 +12,7 @@ Desenvolvido por FRONT DATA utilizando o framework REACT
 
  - npm install
  - npm start
- - Abrir o navegador no endereço: http://localhost:3000
+ - Abrir no navegador o endereço: http://localhost:3000
 
 
 # Próximas funcionalidades
