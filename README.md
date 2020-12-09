@@ -4,11 +4,14 @@ Desenvolvido por FRONT DATA utilizando o framework REACT
 
 ![Screenshot](screenshot.jpg)
 
+Veja funcionando em https://frontdata.github.io/pomodoro-sprint/
+
 # Funcionalidades
 
- - Teclas de atalho
- - Avisos em notificações
- - Avisos sonoros
+ - Aviso sonoro
+ - Aviso por notificação
+ - Mudanças automáticas entre sprint e intervalos
+ - A cada 4 sprints muda para o intervalo longo
 
 # Para testar localmente
 
